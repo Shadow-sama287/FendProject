@@ -1,2 +1,2 @@
 # FendProject
-Just a Frontend project i am trying
+Just a Frontend project under Practice
