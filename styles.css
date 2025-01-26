@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: bisque;
+}
+
+.utilNav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 55px;
+  background-color: cornsilk;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.utilNav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+  padding: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+.boxi-Search {
+  font-size: 22px;
+}
